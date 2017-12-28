@@ -8,3 +8,5 @@ One strategy we could use is to:
 * set our listing price to this calculated average price.
 
 While AirBnB doesn't release any data on the listings in their marketplace, a separate group named [Inside AirBnB](http://insideairbnb.com/get-the-data.html) has extracted data on a sample of the listings for many of the major cities on the website. In this post, we'll be working with their dataset from October 3, 2015 on the listings from Washington, D.C., the capital of the United States. [Here's a direct link to that dataset.](http://data.insideairbnb.com/united-states/dc/washington-dc/2015-10-03/data/listings.csv.gz) Each row in the dataset is a specific listing that's available for renting on AirBnB in the Washington, D.C. area.
+
+We will use `Scikit-learn` library for solving this problem.
